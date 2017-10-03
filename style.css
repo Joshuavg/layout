@@ -1,0 +1,270 @@
+.nieuwsh1 {
+  text-align: center;
+  font-size: 200%
+}
+
+.fotofifa {
+ position: absolute;
+ top: 180px;
+ left: 600px;
+}
+
+.fotogta {
+  position: absolute;
+  top: 160px;
+  left: 650px;
+}
+
+.fotogta2 {
+  position: absolute;
+  top: 440px;
+  left: 34px;
+}
+
+.fotobo3 {
+  position: absolute;
+  top: 160px;
+  left: 650px;
+}
+
+.fotoblackops {
+  position: absolute;
+  top: 440px;
+  left: 34px;
+
+}
+
+.fotoNba {
+  position: absolute;
+  top: 160px;
+  left: 650px;
+}
+
+.fotohobby {
+  position: absolute;
+  top: 160px;
+  left: 650px;
+}
+
+.fotohobby1 {
+  position: absolute;
+  top: 410px;
+  left: 34px;
+}
+
+#advertentie {
+  position: absolute;
+  top: 100px;
+  left: 1350px;
+}
+
+.nieuws1 {
+  position: absolute;
+  top: 200px;
+  left: 200px;
+}
+
+.nieuws2 {
+  position: absolute;
+  top: 200px;
+  left: 500px;
+}
+
+.nieuws3 {
+  position: absolute;
+  top: 200px;
+  left: 800px;
+}
+
+.nieuws4 {
+  position: absolute;
+  top: 200px;
+  left: 1100px;
+}
+
+.fifa {
+  position: absolute;
+  left: 350px;
+  top: 250px;
+}
+
+.fifa {
+    border: 4px solid black;
+}
+
+.gta {
+  position: absolute;
+  left: 750px;
+  top: 250px;
+}
+
+.gta {
+    border: 4px solid black;
+    height: 250px;
+    width: 250px;
+}
+
+header h1 {
+  display: inline;
+}
+
+.box{
+  margin-left: 30px;
+  position: absolute;
+  width: 250px;
+  top: 100px;
+  margin-right: 30px;
+  margin-bottom: 28px;
+  display: inline-block;
+  border: 3px solid;
+  border-radius: 3px;
+}
+
+.boxgta{
+  margin-left: 30px;
+  position: absolute;
+  width: 250px;
+  top: 100px;
+  left: 400px;
+  margin-right: 30px;
+  margin-bottom: 28px;
+  display: inline-block;
+  border: 3px solid;
+  border-radius: 3px;
+}
+
+.boxbo3{
+  margin-left: 30px;
+  position: absolute;
+  width: 250px;
+  top: 100px;
+  left: 800px;
+  margin-right: 30px;
+  margin-bottom: 28px;
+  display: inline-block;
+  border: 3px solid;
+  border-radius: 3px;
+}
+
+.boxnba{
+  margin-left: 30px;
+  position: absolute;
+  width: 250px;
+  top: 100px;
+  left: 1200px;
+  margin-right: 30px;
+  margin-bottom: 28px;
+  display: inline-block;
+  border: 3px solid;
+  border-radius: 3px;
+}
+
+.fifapage{
+  margin-left: 30px;
+  position: absolute;
+  width: 460px;
+  top: 80px;
+  left: 00px;
+  margin-right: 30px;
+  margin-bottom: 28px;
+  display: inline-block;
+  border-radius: 3px;
+}
+
+.gtapage{
+  margin-left: 30px;
+  position: absolute;
+  width: 460px;
+  top: 80px;
+  left: 00px;
+  margin-right: 30px;
+  margin-bottom: 28px;
+  display: inline-block;
+  border-radius: 3px;
+}
+
+.bo3page{
+  margin-left: 30px;
+  position: absolute;
+  width: 460px;
+  top: 80px;
+  left: 00px;
+  margin-right: 30px;
+  margin-bottom: 28px;
+  display: inline-block;
+  border-radius: 3px;
+}
+
+.Nbapage{
+  margin-left: 30px;
+  position: absolute;
+  width: 460px;
+  top: 80px;
+  left: 00px;
+  margin-right: 30px;
+  margin-bottom: 28px;
+  display: inline-block;
+  border-radius: 3px;
+}
+
+.hobbypage{
+  margin-left: 30px;
+  position: absolute;
+  width: 460px;
+  top: 80px;
+  left: 00px;
+  margin-right: 30px;
+  margin-bottom: 28px;
+  display: inline-block;
+  border-radius: 3px;
+}
+
+ ul {
+    list-style-type: none;
+    margin: -10px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    padding: 18px 20px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 110%;
+  background-color: black;
+  padding: 20px 0px;
+  margin-left: -10px;
+}
+.foot {
+  text-align: left;
+  color: white;
+  padding: 16px;
+}
+
+.footer1 {
+  position: fixed;
+  bottom: 0;
+  width: 110%;
+  background-color: black;
+  padding: 20px 0px;
+  margin-left: -30px;
+}
+
+ 
